@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>groupIDmain</groupId>
+    <artifactId>projects_livy</artifactId>
+    <version>1</version>
+  </parent>
+  <groupId>groupIDmainModule</groupId>
+  <artifactId>mainModule</artifactId>
+  <version>1</version>
+  <name>mainModule</name>
+
+  <dependencies>
+    <dependency>
+      <groupId>groupIDpijob</groupId>
+      <artifactId>jarJob</artifactId>
+      <version>1</version>
+      <scope>system</scope>
+      <systemPath>/Users/jp39/.m2/repository/groupIDpijob/jarJob/1/jarJob-1.jar</systemPath>
+    </dependency>
+
+  </dependencies>
+
+</project>

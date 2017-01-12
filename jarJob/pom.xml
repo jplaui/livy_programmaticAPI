@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>groupIDmain</groupId>
+    <artifactId>projects_livy</artifactId>
+    <version>1</version>
+  </parent>
+  <groupId>groupIDpijob</groupId>
+  <artifactId>jarJob</artifactId>
+  <version>1</version>
+  <name>jarJob</name>
+  <packaging>jar</packaging>
+
+</project>
